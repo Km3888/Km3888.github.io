@@ -8,4 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-I am PhD Candidate at NYU Tandon advised by ![Professor Chinmay Hegde](https://chinmayhegde.github.io/lab/). My research has focused on **3D generative modelling** and **differentiable approximations**.
+I am a PhD Candidate at NYU Tandon advised by ![Professor Chinmay Hegde](https://chinmayhegde.github.io/lab/). My research has focused on **3D Generative Modelling** and **Differentiable Approximations**.
+
