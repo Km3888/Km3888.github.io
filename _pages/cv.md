@@ -15,7 +15,7 @@ Education
 * Ph.D in Computer Science, New York University Tandon (current)
 
 Work experience
-
+======
 * Summer 2022: Research Intern
   * Pinterest
   * Used Self-Supervised Learning to get customer representations
