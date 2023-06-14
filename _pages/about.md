@@ -12,4 +12,4 @@ I am a PhD Candidate at NYU Tandon advised by Professor [Chinmay Hegde](https://
 
 Before that I graduated with honors from [NYU Shanghai](https://shanghai.nyu.edu/) where I majored in Data Science and minored in Mathematics and Chinese Language. 
 
-I'm currently funded by the [GAAAN fellowship](https://www2.ed.gov/programs/gaann/index.html)
+I'm currently funded by the [GAANN fellowship](https://www2.ed.gov/programs/gaann/index.html)
