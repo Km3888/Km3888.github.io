@@ -4,13 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## Publications
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+**Differentiable Design with Dynamic Programming**
 
-{% include base_path %}
+Kelly O Marshall, Minsu Cho, Chinmay Hegde
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+**AAAI 2022 Workshop** on AI for Design and Manufacturing (ADAM). Feb 2022. [Paper](https://chomd90.github.io/publications/ADAM.pdf)
+
