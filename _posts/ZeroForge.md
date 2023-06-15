@@ -8,6 +8,8 @@ tags:
   - Text to Shape
 ---
 
-![ZeroForge](/Km3888.github.io/images/5_with_original.png)
+[Blog Post](https://nyu-dice-lab.github.io/ZeroForge)
+
+![ZeroForge](/images/5_with_original.png)
 
 Test post 
