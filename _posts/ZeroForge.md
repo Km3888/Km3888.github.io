@@ -1,11 +1,11 @@
 ---
-title: 'Blog Post number 1'
-date: 2012-08-14
-permalink: /posts/2012/08/blog-post-1/
+title: 'ZeroForge'
+date: 2023-06-15
+permalink: /posts/2023/01/ZeroForge
 tags:
-  - cool posts
-  - category1
-  - category2
+  - Generative Modeling
+  - 3D Machine Learning
+  - Text to Shape
 ---
 
 
