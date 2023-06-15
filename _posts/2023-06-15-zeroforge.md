@@ -8,7 +8,7 @@ tags:
   - Text to Shape
 ---
 
-[Blog Post](https://nyu-dice-lab.github.io/ZeroForge)
+[Link to Blog Post](https://nyu-dice-lab.github.io/ZeroForge)
 
 ![ZeroForge](/images/5_with_original.png)
 
