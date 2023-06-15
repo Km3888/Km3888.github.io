@@ -1,5 +1,5 @@
 ---
-title: ['ZeroForge'](https://nyu-dice-lab.github.io/ZeroForge/)
+title: 'ZeroForge'
 date: 2023-06-15
 permalink: /posts/2023/01/ZeroForge
 tags:
