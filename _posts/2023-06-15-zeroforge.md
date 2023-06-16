@@ -1,5 +1,5 @@
 ---
-title: 'ZeroForge: Feedforward Text-to-Shape \\ Without 3D Supervision'
+title: 'ZeroForge: Feedforward Text-to-Shape Without 3D Supervision'
 date: 2023-06-15
 permalink: /posts/2023/01/ZeroForge
 tags:
