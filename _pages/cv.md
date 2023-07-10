@@ -16,10 +16,9 @@ Education
 
 Work experience
 ======
-* Summer 2022: Research Intern
-  * Pinterest
+* Summer 2022: Research Intern at Pinterest
   * Used Self-Supervised Learning to get customer representations
+  * Focused on non-contrastive alternatives to popular representation learning approaches
 
-* Fall 2019: Data Science Intern
-  * AlgoLift (now part of Vungle)
+* Fall 2019: Data Science Intern at AlgoLift (now part of Vungle)
   * Modeled customer behavior to predict lifetime value
