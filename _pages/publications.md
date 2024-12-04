@@ -5,7 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-**SLICE-100K: A Multimodal Dataset for Extrusion-based 3D Printing** <br> Anushrut Jignas\*, Kelly O. Marshall\*, Ankush Kumar Mishra, Lucas Nerone Rillo, Baskar G., Aditya Balu, Chinmay Hegde, Adarsh Krishnamurthy <br> Neural Information Processing Systems. December 2024. [paper](https://arxiv.org/abs/2407.04180)
+**SLICE-100K: A Multimodal Dataset for Extrusion-based 3D Printing** <br> Anushrut Jignasu\*, Kelly O. Marshall\*, Ankush Kumar Mishra, Lucas Nerone Rillo, Baskar Ganapathysubramanian, Aditya Balu, Chinmay Hegde, Adarsh Krishnamurthy <br> Neural Information Processing Systems. December 2024. [paper](https://arxiv.org/abs/2407.04180)
+
+**BioTrove: A Large Curated Image Dataset Enabling AI for Biodiversity** <br> Chih-Hsuan Yang, Benjamin Feuer, Talukder Zaki Jubery, Zi K. Deng, Andre Nakkab, Md Zahid Hasan, Shivani Chiranjeevi, Kelly O. Marshall, Nirmal Baishnab, Asheesh K Singh, Arti Singh, Soumik Sarkar, Nirav Merchant, Chinmay Hegde, Baskar Ganapathysubramanian <br> Neural Information Processing Systems. December 2024. [paper](https://openreview.net/forum?id=DFDCtGQs7S#discussion)
 
 **AI-assisted Tagging of Deepfake Audio Calls using Challenge-Response** <br> Govind Mittal, Arthur Jakobsson, Kelly O. Marshall, Chinmay Hegde, Nasir Memon
 Preprint. March 2024. [Paper](https://arxiv.org/abs/2402.18085)
