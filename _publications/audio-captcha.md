@@ -1,4 +1,3 @@
-_publications
 **AI-assisted Tagging of Deepfake Audio Calls using Challenge-Response**
 
 Govind Mittal, Arthur Jakobsson, Kelly O. Marshall, Chinmay Hegde, Nasir Memon
