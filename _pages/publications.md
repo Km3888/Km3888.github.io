@@ -5,10 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-**SLICE-100K**
+**SLICE-100K: A Multimodal Dataset for Extrusion-based 3D Printing** <br> Anushrut Jignas\*, Kelly O. Marshall\*, Ankush Kumar Mishra, Lucas Nerone Rillo, Baskar G., Aditya Balu, Chinmay Hegde, Adarsh Krishnamurthy <br> Neural Information Processing Systems. December 2024. [paper](https://arxiv.org/abs/2407.04180)
 
-**AI-assisted Tagging of Deepfake Audio Calls using Challenge-Response**
-Govind Mittal, Arthur Jakobsson, Kelly O. Marshall, Chinmay Hegde, Nasir Memon
+**AI-assisted Tagging of Deepfake Audio Calls using Challenge-Response** <br> Govind Mittal, Arthur Jakobsson, Kelly O. Marshall, Chinmay Hegde, Nasir Memon
 Preprint. March 2024. [Paper](https://arxiv.org/abs/2402.18085)
 
 **Towards Foundational AI Models for Additive Manufacturing: Language Models for G-Code Debugging, Manipulation, and Comprehension** <br> Anushrut Jignasu, Kelly Marshall, Baskar Ganapathysubramanian, Aditya Balu, Chinmay Hegde, Adarsh Krishnamurthy <br> Preprint, August 2023. [Paper](https://arxiv.org/abs/2309.02465)
